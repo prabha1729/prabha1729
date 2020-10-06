@@ -2,5 +2,5 @@
 #### Résumé
 
 
-[![Résumé](https://github.com/prabha1729/prabha1729/blob/master/Resume_Prabhakar_SDE-1.png)](https://github.com/prabha1729/prabha1729/blob/master/Resume_Prabhakar_SDE.pdf) 
+[![Résumé](https://github.com/prabha1729/prabha1729/blob/master/Resume_Prabhakar_SDE-1.png)]
 
